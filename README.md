@@ -3,7 +3,9 @@
 In today's fast-moving and competitive world, individuals often find themselves overworked. This can lead to feelings of exhaustion, reduced efficiency at work, and mental distance from work. This can lead to capable employees leaving companies which is a disadvantage for the company as they lose out on good employees. To counter this problem, we have built Fiesta a web application that will predict if an employee is overworked or not. If the employee is overworked travel places are suggested for VACATION!
 
 ## What it does
-Our project, Fiesta, uses an ML model to predict whether an employee is overworked or not. If the employee is not overworked, then his/her mental health & work-life balance is well and good. However, if the employee is overworked then he/she desperately needs a vacation ASAP. With the travel tourism recommendations using travel API, Fiesta is the best place to tell when one needs to take a break and enjoy your life. 
+Our project, Fiesta is a website that the HR of a company can make use of to understand if the employees in the company are overworked or not.
+
+If the employee is overworked then we recommend you a vacation which you very much deserve. With the travel recommendations, Fiesta is the best place to support a healthy work environment.
 
 ## How we built it
 We made use of Figma to build the UI of the website. Following this we made the frontend of our website using HTML, CSS, and Bootstrap, We then wrote the backend of our website using Node JS and Express JS. In addition, we built an ML model and deployed it on Heroku using the Flask framework. We then integrated the self-made ML model and a travel API from RapidAPI with the backend of our website. Finally, we deployed our website on Heroku.
